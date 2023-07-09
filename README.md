@@ -12,14 +12,14 @@
 
 <h2>Project Screenshots:</h2>
 
-<img src="https://github.com/jaikishanmohanty/Delhi_Metro_App/assets/62710109/1e45b9e0-ad83-4e1b-b920-08a19c23975f" alt="dmrc" width="470" margin="50px" height="500/">
+<img src="https://github.com/jaikishanmohanty/Delhi_Metro_App/assets/62710109/1e45b9e0-ad83-4e1b-b920-08a19c23975f" alt="dmrc" width="500" height="500/">
 
-<img src="https://github.com/jaikishanmohanty/Delhi_Metro_App/assets/62710109/e35e1c0d-3704-4add-b7e2-e7026f9c5d5f" alt="dmrc" width="470" height="500/">
+<img src="https://github.com/jaikishanmohanty/Delhi_Metro_App/assets/62710109/e35e1c0d-3704-4add-b7e2-e7026f9c5d5f" alt="dmrc" width="500" height="500/">
 
 
-<img src="https://github.com/jaikishanmohanty/Delhi_Metro_App/assets/62710109/5040ac55-d03d-499c-a3a9-71ed9f7f8e89" alt="dmrc" width="470" height="500/">
+<img src="https://github.com/jaikishanmohanty/Delhi_Metro_App/assets/62710109/5040ac55-d03d-499c-a3a9-71ed9f7f8e89" alt="dmrc" width="500" height="500/">
 
-<img src="https://github.com/jaikishanmohanty/Delhi_Metro_App/assets/62710109/acb909ce-b85a-461b-9cbb-fcdccf6174e1" alt="dmrc" width="470" height="500/">
+<img src="https://github.com/jaikishanmohanty/Delhi_Metro_App/assets/62710109/acb909ce-b85a-461b-9cbb-fcdccf6174e1" alt="dmrc" width="500" height="500/">
 
 
   
